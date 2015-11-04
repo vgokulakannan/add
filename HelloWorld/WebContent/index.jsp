@@ -20,7 +20,7 @@ $("#ans").val(c);
 //document.getElementById("ans").value=c;
 }
 </script>
-index
+index1
 <form id="addform">
 <input type="text" id="num1"><br>
 <input type="text" id="num2"><br>
